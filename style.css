@@ -1,0 +1,33 @@
+.redcol{
+    background-color: rgb(244, 244, 116);
+}
+.row-1col{
+background-color: rgb(91, 231, 231);
+}
+.mycol{
+    background-color: rgb(194, 140, 245);
+}
+.mycol2{
+    background-color: rgb(179, 241, 116);
+}
+.mycol3{
+    background-color: rgb(241, 148, 114);
+}
+.mycol4{
+    background-color: rgb(243, 123, 243);
+}
+.mycol1{
+    background-color: rgb(240, 230, 140);
+}
+.mycol11{
+    background-color: rgb(247, 159, 168);
+}
+
+table{
+border: solid 3px black;
+}
+
+h4{
+    font-style: oblique;
+    color: blueviolet;
+}
